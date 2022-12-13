@@ -1,0 +1,49 @@
+.heading{
+    margin-left: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    display: inline-block;
+}
+.border2{
+    border: 1px solid rgb(254, 254, 255);
+   width: 1200px;
+   height: 500px;
+   padding: 10px;
+   margin: auto;
+   position: relative;
+   background: rgb(233, 228, 228);
+   box-shadow: inset 25px 25px 25px #3d3d3d29;
+}
+.parisbox{
+    border: 1px solid rgb(168, 167, 167);
+    width: 400px;
+    height: 330px;
+    position: absolute;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 25px;
+    color:rgb(24, 147, 223);
+    margin-left: 480px;
+    margin-top: -450px;
+}
+.back-arrow{
+    margin-left: 480px;
+    margin-top: -490px;
+    position: absolute;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.task{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 700px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+.dull{
+    opacity: 0.4;
+}

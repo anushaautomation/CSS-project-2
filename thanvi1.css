@@ -1,0 +1,64 @@
+h1{
+    text-align: left;
+    font-size: 40px;
+    padding-left: 200px;
+}
+.border{
+   border: 1px solid rgb(254, 254, 255);
+   width: 1200px;
+   height: 800px;
+   padding: 10px;
+   margin: auto;
+   position: relative;
+   background: rgb(233, 228, 228);
+   box-shadow: inset 25px 25px 25px #3d3d3d29;
+}
+.add{
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 850px;
+    color: black;
+    font-size: 30px;
+}
+.flex > div {
+    border: 1px solid rgb(253, 249, 249);
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 25px;
+    color:rgb(24, 147, 223);
+    margin-top: 10px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 100px;
+    margin-left: 130px;
+}
+.light{
+    opacity: 0.4;
+}
+.light2{
+    opacity: 0.4;
+}
+.light3{
+    opacity: 0.4;
+}
+.light4{
+    opacity: 0.4;
+}
+.light5{
+    opacity: 0.4;
+}
+a{
+    text-decoration: none;
+    color:rgb(24, 147, 223)
+}
+p{
+    text-align: left;
+    color: black;
+}
